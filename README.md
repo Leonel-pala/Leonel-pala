@@ -24,7 +24,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 ![Turso](https://img.shields.io/badge/Turso-46E3B7?style=for-the-badge&logo=Turso&logoColor=white)&nbsp;
-
+<h2>
 🧰 &nbsp;Herramientas
 </h2>
 
