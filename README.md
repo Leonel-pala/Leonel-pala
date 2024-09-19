@@ -1,5 +1,5 @@
 <h1 align="center"> Hola, soy @Leonel-pala 👋</h1>
-<img src="https://github.com/Leonel-pala/Leonel-pala/blob/main/banner.png?raw=true" width = 100%>
+<img src="https://github.com/Leonel-pala/Leonel-pala/blob/main/banner%20Leonel.png?raw=true" width = 100%>
 
 <h2> 💻 &nbsp;Tecnologías</h2>
 
